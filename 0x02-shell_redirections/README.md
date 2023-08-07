@@ -1,1 +1,2 @@
-This is a readme
+echo command prints Hello, World
+
